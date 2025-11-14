@@ -1,4 +1,4 @@
-# Task-2: Exploratory Data Analysis (EDA)**
+# Task-2: Exploratory Data Analysis (EDA)
 
 **Objective:**  
 Understand the dataset using statistical summaries and visualizations to identify patterns and relationships.
